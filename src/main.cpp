@@ -1,5 +1,5 @@
 /**
-* @file main.ino
+* @file main.cpp
  * @brief MG995 Closed-Loop Axis Control System
  * @author Ankur singh [Ankursingh7]
  * @date 19-01-2026
